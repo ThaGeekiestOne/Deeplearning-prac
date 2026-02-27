@@ -1,81 +1,74 @@
-# Deep Learning Practice Dump
+<!-- ================= HEADER ================= -->
 
-This repository is my active experimentation space for deep learning and machine learning models.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Deep%20Learning%20Practice%20Dump&fontSize=40&color=0:0f2027,100:2c5364&fontColor=ffffff"/>
+</p>
 
-It is intentionally unpolished.
-
-The goal is rapid iteration, architecture testing, debugging, and understanding model behavior — not production deployment.
-
----
-
-## What This Repo Is
-
-- A sandbox for testing model ideas
-- A place to break things and fix them
-- A space to compare architectures
-- A log of learning progression
-- A collection of experiments on real datasets
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Experimenting+with+Neural+Networks;Breaking+Models+and+Fixing+Them;Practice+%3E+Perfection;Iteration+is+the+Goal" />
+</p>
 
 ---
 
-## What This Repo Is Not
+# ⚙️ What This Repository Is
 
-- A polished portfolio project
-- A production-ready system
-- A final optimized implementation
-- A research paper
+A live sandbox for experimenting with:
 
-This is raw practice.
+- Artificial Neural Networks  
+- Model optimization strategies  
+- Hyperparameter tuning  
+- Dataset behavior analysis  
+- Overfitting & regularization experiments  
+- Debugging deep learning pipelines  
 
----
-
-## Current Focus Areas
-
-- Artificial Neural Networks (ANN)
-- Loss behavior experimentation
-- Hyperparameter tuning
-- Overfitting diagnostics
-- Feature scaling impact
-- Optimizer comparisons
-- Dataset behavior analysis
+This is where ideas are tested before they become serious projects.
 
 ---
 
-## Datasets Used
+# 🚫 What This Repository Is Not
 
-This folder may include:
+- Not a polished portfolio  
+- Not production-ready  
+- Not perfectly structured  
+- Not optimized for deployment  
 
-- Classic ML benchmark datasets
-- Public R datasets
-- Kaggle datasets
-- Custom structured datasets
-
-Large datasets may not be uploaded directly.  
-Instructions or references will be provided instead.
+This is raw iteration space.
 
 ---
 
-## Typical Workflow
+# 🧠 Tech Being Used
 
-For most experiments:
-
-1. Load dataset
-2. Clean / preprocess
-3. Apply encoding / scaling
-4. Build model architecture
-5. Train
-6. Evaluate
-7. Analyze errors
-8. Modify architecture
-9. Repeat
-
-Iteration is the objective.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy,matplotlib&perline=6"/>
+</p>
 
 ---
 
-## Structure
+# 🔁 Typical Experiment Workflow
 
-Folders may look like:
+```
+Load Dataset
+   ↓
+Preprocess & Scale
+   ↓
+Design Architecture
+   ↓
+Train Model
+   ↓
+Evaluate Metrics
+   ↓
+Analyze Errors
+   ↓
+Modify & Retrain
+```
+
+Iteration > Clean Code.
+
+Understanding > Optimization.
+
+---
+
+# 📂 Folder Pattern (When Structured)
 
 ```
 experiment_name/
@@ -83,41 +76,62 @@ experiment_name/
     ├── notebook.ipynb
     ├── model.py
     ├── train.py
-    └── results.txt
+    ├── evaluate.py
+    └── results/
 ```
 
-Not every experiment will be perfectly structured.
+Sometimes it will be structured.
 
-That is intentional.
+Sometimes it won’t.
+
+That’s part of the process.
 
 ---
 
-## Why Keep This Public?
+# 📊 Types of Experiments You’ll See
 
-Because growth should be visible.
+- ANN Classification
+- ANN Regression
+- CNN Trials (when added)
+- Optimizer comparisons (SGD vs Adam etc.)
+- Learning rate sensitivity
+- Scaling impact analysis
+- Regularization experiments
+- Loss curve diagnostics
+
+---
+
+# 📌 Datasets
+
+May include:
+
+- Classic ML benchmark datasets  
+- Public R datasets  
+- Kaggle datasets  
+- Custom structured datasets  
+
+Large files may not be uploaded directly.
+
+---
+
+# 📈 Why Keep This Public?
+
+Because improvement should be visible.
 
 This repository reflects:
-- Learning curve
-- Experiment history
-- Model evolution
-- Mistakes and corrections
+
+- Model evolution  
+- Mistakes  
+- Refactoring  
+- Learning velocity  
+- Architecture growth  
+
+It’s not about looking impressive.
+
+It’s about getting better.
 
 ---
 
-## Disclaimer
-
-Expect:
-- Inconsistent structure
-- Half-finished experiments
-- Rapid prototypes
-- Code refactoring over time
-
-This is a living practice environment.
-
----
-
-## Author
-
-Ayush Nagarkoti  
-Practicing Deep Learning Systems  
-GitHub: https://github.com/ThaGeekiestOne
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2c5364,100:0f2027"/>
+</p>
